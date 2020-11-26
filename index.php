@@ -5,6 +5,7 @@
   <title>tech boost</title>
 </head>
   <body>
+  <h1>見出し1</h1>
     <h1>Hello world!!!</h1>
     <p>はじめてのwebサイトへようこそ</p>
   </body>
